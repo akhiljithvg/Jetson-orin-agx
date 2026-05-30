@@ -106,6 +106,6 @@ The model is trained to detect the following classes:
 6. `direction_left` / `direction_right` — Arrow direction signs.
 
 ---
-*Note: System architecture documentation is actively being updated*
+*Note: System architecture documentation is actively being updated..*
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
